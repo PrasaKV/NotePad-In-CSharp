@@ -1,0 +1,5 @@
+D:\Programming\C#\Publish\NotePad In CSharp.exe
+D:\Programming\C#\Publish\NotePad In CSharp.dll
+D:\Programming\C#\Publish\NotePad In CSharp.deps.json
+D:\Programming\C#\Publish\NotePad In CSharp.runtimeconfig.json
+D:\Programming\C#\Publish\NotePad In CSharp.pdb

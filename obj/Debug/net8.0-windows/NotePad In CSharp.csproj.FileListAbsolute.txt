@@ -1,0 +1,20 @@
+D:\Programming\C#\WPF\NotePad In CSharp\bin\Debug\net8.0-windows\NotePad In CSharp.exe
+D:\Programming\C#\WPF\NotePad In CSharp\bin\Debug\net8.0-windows\NotePad In CSharp.deps.json
+D:\Programming\C#\WPF\NotePad In CSharp\bin\Debug\net8.0-windows\NotePad In CSharp.runtimeconfig.json
+D:\Programming\C#\WPF\NotePad In CSharp\bin\Debug\net8.0-windows\NotePad In CSharp.dll
+D:\Programming\C#\WPF\NotePad In CSharp\bin\Debug\net8.0-windows\NotePad In CSharp.pdb
+D:\Programming\C#\WPF\NotePad In CSharp\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Programming\C#\WPF\NotePad In CSharp\obj\Debug\net8.0-windows\App.g.cs
+D:\Programming\C#\WPF\NotePad In CSharp\obj\Debug\net8.0-windows\NotePad In CSharp_MarkupCompile.cache
+D:\Programming\C#\WPF\NotePad In CSharp\obj\Debug\net8.0-windows\NotePad In CSharp_MarkupCompile.lref
+D:\Programming\C#\WPF\NotePad In CSharp\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Programming\C#\WPF\NotePad In CSharp\obj\Debug\net8.0-windows\NotePad In CSharp.g.resources
+D:\Programming\C#\WPF\NotePad In CSharp\obj\Debug\net8.0-windows\NotePad In CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\WPF\NotePad In CSharp\obj\Debug\net8.0-windows\NotePad In CSharp.AssemblyInfoInputs.cache
+D:\Programming\C#\WPF\NotePad In CSharp\obj\Debug\net8.0-windows\NotePad In CSharp.AssemblyInfo.cs
+D:\Programming\C#\WPF\NotePad In CSharp\obj\Debug\net8.0-windows\NotePad In CSharp.csproj.CoreCompileInputs.cache
+D:\Programming\C#\WPF\NotePad In CSharp\obj\Debug\net8.0-windows\NotePad In CSharp.dll
+D:\Programming\C#\WPF\NotePad In CSharp\obj\Debug\net8.0-windows\refint\NotePad In CSharp.dll
+D:\Programming\C#\WPF\NotePad In CSharp\obj\Debug\net8.0-windows\NotePad In CSharp.pdb
+D:\Programming\C#\WPF\NotePad In CSharp\obj\Debug\net8.0-windows\NotePad In CSharp.genruntimeconfig.cache
+D:\Programming\C#\WPF\NotePad In CSharp\obj\Debug\net8.0-windows\ref\NotePad In CSharp.dll

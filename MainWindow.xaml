@@ -1,0 +1,36 @@
+﻿<Window x:Class="NotePad_In_CSharp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NotePad_In_CSharp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="20"/>
+        </Grid.RowDefinitions>
+        <Menu Grid.Row="0">
+            <MenuItem Header="File" Height="30" Width="50" Padding="15 0" BorderBrush="DarkGray" BorderThickness="1 0">
+                <MenuItem x:Name="New" Header="New" InputGestureText="CTRL + N"  Click="MenuNew_Click"/>
+                <MenuItem x:Name="Open" Header="Open" InputGestureText="CTRL + O" Click="MenuOpen_Click"/>
+                <MenuItem x:Name="Save" Header="Save" InputGestureText="CTRL + S" Click="MenuSave_Click"/>
+                <Separator/>
+                <MenuItem x:Name="Close" Header="Close" Click="MenuClose_Click"/>
+            </MenuItem>
+        </Menu>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="70*"/>
+                <ColumnDefinition Width="30*"/>
+            </Grid.ColumnDefinitions>
+            <TextBox x:Name="FileName" FontSize="16" Grid.Column="0" VerticalContentAlignment="Center"/>
+            <TextBox x:Name="FileExtention" FontSize="16" Grid.Column="1" VerticalContentAlignment="Center" />
+        </Grid>
+        <RichTextBox x:Name="TextArea"  Grid.Row="2" FontSize="16" Padding="5"></RichTextBox>
+        <TextBlock x:Name="WordCount" Grid.Row="3" FontSize="14"></TextBlock>
+    </Grid>
+</Window>
